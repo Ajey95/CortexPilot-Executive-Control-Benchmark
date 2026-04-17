@@ -1,3 +1,5 @@
+<img width="1024" height="572" alt="image" src="https://github.com/user-attachments/assets/080a0d1c-8f69-43b5-bc00-b67b3e8612cb" />
+
 # CortexPilot Executive Control Benchmark
 
 ### Project Name
